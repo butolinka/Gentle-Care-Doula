@@ -1,0 +1,59 @@
+body{
+    font-family: 'Lora', serif;
+    background-color: #E1CCEC;
+    margin: 0;
+}
+.top{
+    background-color: #BE9FE1;
+}
+.drop{
+    background-color: #BE9FE1;
+}
+.consultation {
+    background-color: #BE9FE1;
+}
+.firstblock{
+    background-color: #C9B6E4;
+}
+.classes{
+    background-color: #F1F1F6;
+}
+.bottom{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.form-check-input:checked {
+    background-color: #BE9FE1;
+    border-color: #be9fe1;
+}
+.menu{
+    text-decoration: none;
+    color:#000;
+    font-size: 20px;
+}
+
+.dropdown-item:visited, .dropdown-item:focus, .dropdown-item:hover {
+    background-color:#C9B6E4;
+    color: black;
+}
+#myCarousel{
+    width: 50vw;
+    margin-left: 25vw;
+    margin-top: 15px;
+}
+.float{
+    text-align: center;
+}
+main{
+    margin-right: 30px;
+    margin-top: 5px;
+}
+
+.headingreview{
+    text-align: center;
+}
+.btnenroll:hover{
+scale: 1.1;
+}
