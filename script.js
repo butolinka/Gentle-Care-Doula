@@ -10,9 +10,3 @@ gsap.from('.firstrow',{
 gsap.from('.secondrow',{
     opacity:0, x:-200, stagger:2, duration:3, delay:3.5
 })
-gsap.from('.firstrowclass',{
-    opacity:0, x:200, stagger:2, duration:3, delay:0.5
-})
-gsap.from('.secondrowclass',{
-    opacity:0, x:-200, stagger:2, duration:3, delay:0.5
-})
